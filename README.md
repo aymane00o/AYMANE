@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ouhsassi.business@gmail.com**
 
-- ⚡ Fun fact **am the best**
+- ⚡fact **am the best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
