@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AYMANE</h1>
-<h3 align="center">A electrical engineer from morocco</h3>
+<h3 align="center">An avionic systems engineer</h3>
 
 - 🔭 I’m currently working on **my future :)**
 
-- 💬 Ask me about **electrical/electronics**
+- 💬 Ask me about **UAV/AIRPlANE/Embedded system/electronic**
 
 - 📫 How to reach me **ouhsassi.business@gmail.com**
 
